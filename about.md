@@ -19,11 +19,11 @@ A more thoughtful, holistic perspective on reaching financial independence.
 - I did pretty well at school, and went to a decent uni to study engineering
 - After a very short stint (< 1yr) in a “professional services job” I binned that off and chose not to bother with the typical consulting/law/banking plan
 - Instead, I chose to do something that actually interest me and aligns better with my values
-- I intensely love questioning things, understanding why we do the things we do, as individuals and more generally as a human race
+- I like questioning things, understanding why we do the things we do, as individuals and more generally as a human race, we're fascinating
 
 #### Disclaimer:
 
-I wanna point out that these are just opinions, albeit strong ones, loosely held. It’s probably fair to assume that I’ve already changed my mind on some of these too. Also, disclaimer, one thing this is definitely _not_ is financial advice.
+I wanna point out that these are just opinions, albeit strong ones, loosely held. It’s probably fair to assume that I’ve already changed my mind on some of these too. One thing's for sure, this isn't financial advice.
 
 #### Start a conversation:
 

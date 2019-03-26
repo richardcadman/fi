@@ -2,4 +2,80 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+
+@import url(https://fonts.googleapis.com/css?family=Arsenal:400,700);
+
+$arsenal: 'Arsenal', sans-serif;
+$base-font-family: $arsenal;
+
+// Styles
+body {
+  font-family: $arsenal;
+  font-weight: normal;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: $arsenal;
+  font-weight: normal;
+  text-align: left;
+}
+
+$background-color: #FFF1E5 !default;
+$brand-color:      #FF7FAA !default;
+$content-width:    750px !default;
+
 @import "minima";
+
+.top {
+    margin-top: 30px;
+}
+
+/**
+ * Code formatting
+ */
+pre,
+code {
+  @include relative-font-size(0.9375);
+  /*border: 1px solid $grey-color-light;*/
+  border-radius: 3px;
+  background-color: #eceff2;
+}
+
+/**
+ * Links
+ */
+
+
+a {
+  color: $text-color !important;
+  //text-decoration: underline;
+
+  &:visited {
+    color: $text-color !important;
+  }
+
+  &:hover {
+    color: #ffffff !important;
+    text-decoration: underline !important;
+    background-color: $brand-color !important;
+  }
+
+
+  .social-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
+}
+
+.post-link {
+  display: inline;
+}
+
+
+.site-title a {
+    &:hover {
+        color: #ffffff;
+    }
+}

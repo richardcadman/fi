@@ -14,7 +14,7 @@ Jacob Lund Fisker at [Extreme Retirement Early](https://wiki.earlyretirementextr
 
 I’m not going to dictate your choices, but my hope is that being aware and understanding these aspects of money will allow you to build your own approach to life and money, and a set of principles that supports them.
 
-#### The mathematical/conceptual side of money:
+#### The mathematical/rational side of money:
 Financial concepts like interest, compounding, debt, etc
 - Interest, savings, debt
 - Compounding
@@ -22,8 +22,8 @@ Financial concepts like interest, compounding, debt, etc
 - Pensions (and tax)
 - Retirement (how much you need)
 
-#### The practical/rational side of money:
-Where to put your money, how to systemise / form habits, etc
+#### The practical/emotive side of money:
+Where to put your money, how we think and feel and act etc
 - Tools: what tools to use, how to choose them
 - Bank
 - Pension
@@ -31,14 +31,12 @@ Where to put your money, how to systemise / form habits, etc
 - Systems: build the right habits, take the right approach to money
 - Measure what matters
 - Budgeting
-
-#### The emotive/irrational side of money:
-How to talk about it and how we think and feel about it, etc
+- How to talk about it and how we think and feel about it, etc
 - Behavioural Economics
 - Tricks that you’ll be falling for
 - “Debt isn't a maths problem — it's a psychological problem”
 
-#### The philosophical side of money:
+#### The philosophical/conceptual side of money:
 What is money, debt, consumerism, how we choose to live etc
 - Money
 - Debt

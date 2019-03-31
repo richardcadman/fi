@@ -81,3 +81,39 @@ a {
         color: #ffffff;
     }
 }
+
+.post-content {
+  margin-bottom: $spacing-unit;
+
+  h1 {
+    @include relative-font-size(1.625);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.5);
+    }
+  }
+
+  h2 {
+    @include relative-font-size(1.5);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.4);
+    }
+  }
+
+  h3 {
+    @include relative-font-size(1.35);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.3);
+    }
+  }
+
+  h4 {
+    @include relative-font-size(1.2);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.125);
+    }
+  }
+}

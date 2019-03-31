@@ -38,6 +38,7 @@ Where to put your money, how we think and feel and act etc
 
 #### The philosophical/conceptual side of money:
 What is money, debt, consumerism, how we choose to live etc
+- Financial Independence
 - Money
 - Debt
 - Capitalism
@@ -45,4 +46,5 @@ What is money, debt, consumerism, how we choose to live etc
 - Materialism
 - Systems Thinking Approach
 - Simple Living / Minimalism
-- Financial Independence
+- Work
+- Leisure

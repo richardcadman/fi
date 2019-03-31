@@ -9,4 +9,4 @@ categories: dump
 
 - 4% rule kind of thinking
 - Fill your pension, then bridge the gap
--
+- 

@@ -25,27 +25,16 @@ $background-color: #FFF1E5 !default;
 $brand-color:      #FF7FAA !default;
 $content-width:    750px !default;
 
-@import "minima";
-
 .top {
     margin-top: 30px;
 }
 
-/**
- * Code formatting
- */
-pre,
-code {
-  @include relative-font-size(0.9375);
-  /*border: 1px solid $grey-color-light;*/
-  border-radius: 3px;
-  background-color: #eceff2;
-}
 
 /**
  * Links
  */
 
+@import "minima";
 
 a {
   color: $text-color !important;
@@ -115,5 +104,41 @@ a {
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
+  }
+}
+
+//syntax-highlighting
+
+.highlight {
+  background: #fff;
+  @extend %vertical-rhythm;
+
+  .highlighter-rouge & {
+    background: #FFFCFA;
+  }
+}
+
+//code
+
+pre,
+code {
+  @include relative-font-size(0.9375);
+  border: 1px solid $grey-color-light;
+  border-radius: 3px;
+  background-color: #FFFCFA;
+}
+
+code {
+  padding: 1px 5px;
+}
+
+pre {
+  padding: 8px 12px;
+  overflow-x: auto;
+
+  > code {
+    border: 0;
+    padding-right: 0;
+    padding-left: 0;
   }
 }

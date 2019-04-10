@@ -7,7 +7,7 @@ permalink: /about/
 `A little bit about me`
 
 #### I'm london-based, mid-twenties, and work in tech
-- I’m in my mid-twenties, london-based, and work in the tech sector
+- I’m in my mid-twenties, London-based, and work in the tech sector
 - I did pretty well at school, and went to a decent uni to study engineering
 - After a very short stint (< 1yr) in a “professional services job” I binned that off and chose not to bother with the typical consulting/law/banking plan
 - Instead, I chose to do something that actually interest me and aligns better with my values

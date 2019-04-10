@@ -4,7 +4,11 @@ title: Concepts
 permalink: /concepts/
 ---
 
+### The principles live here, just click the links
+
 Here are some building blocks of an approach to life and money. Each one will become clickable as and when I write about it.
+
+### Get to know the principles, and how they fit together
 
 I like to understand how different ideas and concepts fit together, and how they interact with each other.
 
@@ -12,27 +16,26 @@ As an example, following a certain philosophy to life (e.g. minimalism) will red
 
 Jacob Lund Fisker at [Extreme Retirement Early](https://wiki.earlyretirementextreme.com/) takes this to the next level with a [systems thinking](https://oxfamblogs.org/fp2p/how-to-think-in-systems-great-and-accessible-and-short-book/) perspective. He talks about a _"Web of Goals"_, where _"negative side-effects are eliminated as far as possible and goals are chosen to have mutually reinforcing positive side effects... complex arrangement of highly efficient choices that produce a given standard-of-living for much less than the normal cost or a higher standard-of-living at the same cost."_
 
+### Use these principles to make your own choices
+
 I’m not going to dictate your choices, but my hope is that being aware and understanding these aspects of money will allow you to build your own approach to life and money, and a set of principles that supports them.
 
-<br>
-
-#### Earn more, spend less, and grow the difference
+### Earn more, spend less, and grow the difference
 
 That's all there is to it.
 
-To get there, here's the three sides of money you'll need to think about.
+Actually making that happen is obviously more difficult than it sounds though. I want to give you some tools to help you on your way. They fall into three categories, or 'pillars'.
 
-<br>
+
+### The three pillars of financial independence
 
 #### 1) The mathematical/rational side of money:
 Financial concepts like interest, compounding, debt, etc
 - Interest, savings, debt
 - Compounding
-- [Classical FI & Savings rates]({% post_url 2019-03-30-classical-fi %})
+- :white_check_mark: [Classical FI & Savings rates]({% post_url 2019-03-30-classical-fi %})
 - Pensions (and tax)
 - Retirement (how much you need)
-
-<br>
 
 #### 2) The practical/emotive side of money:
 Where to put your money, how we think and feel and act etc
@@ -48,10 +51,10 @@ Where to put your money, how we think and feel and act etc
 - Tricks that you’ll be falling for
 - “Debt isn't a maths problem — it's a psychological problem”
 
-<br>
 
 #### 3) The philosophical/conceptual side of money:
 What is money, debt, consumerism, how we choose to live etc
+- :white_check_mark: [How do you value your time?]({% post_url 2019-03-30-classical-fi %})
 - Financial Independence
 - Money
 - Debt
@@ -62,5 +65,3 @@ What is money, debt, consumerism, how we choose to live etc
 - Simple Living / Minimalism
 - Work
 - Leisure
-
-<br>

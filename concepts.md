@@ -4,7 +4,7 @@ title: Concepts
 permalink: /concepts/
 ---
 
-Here are some building blocks of an approach to life and money.
+Here are some building blocks of an approach to life and money. Each one will become clickable as and when I write about it.
 
 I like to understand how different ideas and concepts fit together, and how they interact with each other.
 
@@ -18,9 +18,10 @@ I’m not going to dictate your choices, but my hope is that being aware and und
 Financial concepts like interest, compounding, debt, etc
 - Interest, savings, debt
 - Compounding
-- Savings rates
+- [Classical FI & Savings rates]({% post_url 2019-03-30-classical-fi %})
 - Pensions (and tax)
 - Retirement (how much you need)
+
 
 #### The practical/emotive side of money:
 Where to put your money, how we think and feel and act etc

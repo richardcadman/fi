@@ -11,7 +11,11 @@ permalink: /about/
 - I did pretty well at school, and went to a decent uni to study engineering
 - After a very short stint (< 1yr) in a “professional services job” I binned that off and chose not to bother with the typical consulting/law/banking plan
 - Instead, I chose to do something that actually interest me and aligns better with my values
-- I like questioning things, understanding why we do the things we do, as individuals and more generally as a human race, we're fascinating
+- I like questioning things, understanding why we do the things we do, as individuals and more generally as a human race; we're fascinating
+
+#### I want to help people think and feel better about money
+
+This blog is a bit of a thought experiment. Ultimately, I want to help people feel better about money, and make better decisions, and so I'm going to see if I get the way I think about money down on paper. Will anyone find it useful? We'll see.
 
 #### None of what I'm writing here is financial advice
 

@@ -24,8 +24,6 @@ Before you FIRE, you should understand your top priorities. I.e. get the basic s
 
 This gives a good overview: [https://i.imgur.com/BfHzwr9.png](https://i.imgur.com/BfHzwr9.png) (Source: Reddit, naturally)
 
-![The Flowchart](/assets/img/fire/financeflowchart.png){:class="img-responsive"}
-
 ### 1) FIRE Philosophies
 - Get more intentional with your life, question your choices
 - Be aware of the impact of your decisions (e.g. that subscription now could be ~ £3k extra of work = a few more months)

@@ -32,7 +32,7 @@ Actually making that happen is obviously more difficult than it sounds though. I
 #### 1) The mathematical/rational side of money:
 Financial concepts like interest, compounding, debt, etc
 - Interest, savings, debt
-- Compounding
+- :white_check_mark: [Life-changing magic of compounding]({% post_url 2019-04-13-life-changing-magic-compound-interest %})
 - :white_check_mark: [Classical FI & Savings rates]({% post_url 2019-03-30-classical-fi %})
 - Pensions (and tax)
 - Retirement (how much you need)
